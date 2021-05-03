@@ -1,0 +1,64 @@
+body{
+font-family: 'Segoe UI';
+}
+#webTitle{
+	color: white;
+	text-align: center;
+	font-size: 48px;
+	margin-top: -30px;
+}
+#Description{
+	color: white;
+	text-align: center;
+	font-size: 32px;
+}
+#inputText1{
+	font-size: 36px;
+	margin-left: 25%;
+	white-space: nowrap;
+}
+#inputText2{
+	font-size: 36px;
+	margin-left: 80px;
+	white-space: nowrap;
+}
+#button{
+	background-color: lightcoral;
+	margin-left: 80px;
+	font-family: 'Segoe UI';
+	width: 100px;
+}
+#GoogleMap{
+	width: 75%;
+	height: 550px;
+	margin-left: auto;
+    margin-right: auto;
+}
+#results{
+	text-align: center;
+}
+#history{
+	text-align: center;
+}
+#printResults{
+	font-size: 32px;;
+	text-align: center;
+}
+#previousOrigin{
+	text-align: center;
+	margin-left: 37%;
+	margin-top: 5px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+#previousDest{
+	text-align: center;
+	margin-right: 37%;
+	margin-top: 5px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+#to{
+	display: inline;
+	text-align: center;
+}
